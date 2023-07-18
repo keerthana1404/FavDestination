@@ -1,0 +1,30 @@
+[
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1512952398228-c6bda07ac7b8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+    "title": "Universal Studios Singapore Ticket",
+    "description": "[Combo] Universal Studios Singapore + S.E.A. Aquarium One Day Admission (Fixed dated)",
+    "currency": "$",
+    "pricePerAdult": 15,
+    "pricePerChild": 10,
+    "location": "Dubai",
+    "noOfAdults": 1,
+    "noOfChildren": 0,
+    "totalPrice": 40,
+    "date": "7 Jul 2023"
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1604716053460-3f66248bf8de?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+    "title": "Graffiti Session for at Heaven Spot in Singapore",
+    "description": "[Combo] Universal Studios Singapore + S.E.A. Aquarium One Day Admission (Fixed dated)",
+    "currency": "$",
+    "pricePerAdult": 15,
+    "pricePerChild": 10,
+    "location": "Dubai",
+    "noOfAdults": 1,
+    "noOfChildren": 0,
+    "totalPrice": 40,
+    "date": "7 Jul 2023"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1508964942454-1a56651d54ac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2luZ2Fwb3JlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "title": "Universal Studios Singapore Ticket",
+    "description": "Southeast Asia's first and only Universal Studios theme park, featuring thrilling rides, shows and attractions based on popular films and TV shows.",
+    "currency": "$",
+    "pricePerAdult": 200,
+    "pricePerChild": 100,
+    "location": "Singapore",
+    "noOfAdults": 2,
+    "noOfChildren": 1,
+    "totalPrice": 500,
+    "date": "7 Jul 2023 09:00"
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1512952398228-c6bda07ac7b8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+    "title": "Burj Khalifa At the Top Observation Deck Ticket in Dubai",
+    "description": "At the Top Burj Khalifa (Level 124 & 125)",
+    "currency": "$",
+    "pricePerAdult": 15,
+    "pricePerChild": 10,
+    "location": "Dubai",
+    "noOfAdults": 2,
+    "noOfChildren": 1,
+    "totalPrice": 40,
+    "date": "7 Jul 2023 09:00"
+  }
+]

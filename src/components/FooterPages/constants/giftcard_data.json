@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "time_period": "Gift Card",
+    "price": "285",
+    "currency": "HK$"
+  },
+  {
+    "id": 2,
+    "time_period": "Gift Card",
+    "price": "285",
+    "currency": "HK$"
+  },
+  {
+    "id": 3,
+    "time_period": "Gift Card",
+    "price": "285",
+    "currency": "HK$"
+  },
+  {
+    "id": 4,
+    "time_period": "Gift Card",
+    "price": "285",
+    "currency": "HK$"
+  }
+]
