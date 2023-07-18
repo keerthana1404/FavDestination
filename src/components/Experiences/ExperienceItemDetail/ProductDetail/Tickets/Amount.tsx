@@ -29,7 +29,9 @@ const Amount = ({
 					tickectPrices.child * childQuantity}
 			</Typography>
 			<Stack sx={TicketUmegoCredits}>
-				<Typography variant="subtitle2">Umego Credits +50</Typography>
+				<Typography variant="subtitle2">
+					Fav Destination Credits +50
+				</Typography>
 			</Stack>
 		</Stack>
 	);
